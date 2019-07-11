@@ -1,0 +1,19 @@
+#waka_waka {
+  position: absolute;
+  width: 100%;
+  top: 10px;
+  left: 5px;
+  border: 5px solid purple;
+}
+
+#inky_blinky {
+  position: absolute;
+  width: 100%;
+  left: 5px;
+  bottom: 10px;
+  border: 5px solid purple;
+}
+
+#sticky_mickey {
+  margin-top: 75px;
+}
