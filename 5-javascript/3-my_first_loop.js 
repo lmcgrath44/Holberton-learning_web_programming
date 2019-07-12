@@ -1,5 +1,5 @@
-var input = 0;
-while (input <= 10) {
- console.log(input);
- input++;
+let i = 0
+while(i<11) {
+ console.log("<p>The number is + i + </p>");
+ i++;
 }
