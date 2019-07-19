@@ -1,0 +1,12 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+#big_tress {
+  font-size: 30px
+  margin-left: 50%;
+  margin-right: 50%;
+}
